@@ -8,4 +8,5 @@ int main()
   cout << "bye" << endl;
   cout << "helloooo" << endl;
   cout << "HIIIIIII" << endl;
+  return 0;
 }
