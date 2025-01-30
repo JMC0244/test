@@ -7,4 +7,5 @@ int main()
   cout << "hi" << endl;
   cout << "bye" << endl;
   cout << "helloooo" << endl;
+  cout << "HIIIIIII" << endl;
 }
